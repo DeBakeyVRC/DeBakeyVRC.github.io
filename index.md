@@ -1,14 +1,14 @@
 ## Welcome to DeBakey High School's Robotics Page
 This is the website for Michael E. DeBakey High School for Health Professions's VRC Robotics team. 
 
-2021-2022 VRC Tipping Point:
+### 2021-2022 VRC Tipping Point:
 
-Railgunawesome (14700H)
+#### Railgunawesome (14700H)
 
-Vipers (7390A):
+#### Vipers (7390A):
 
 
-2022-2023 VRC Spin Up:
+### 2022-2023 VRC Spin Up:
 
 
 ### Contact
