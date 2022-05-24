@@ -85,6 +85,8 @@ David Ding (Class of 23)
   
 Builder
   
+<kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="500"/> </kbd> 
+  
 William Yun (Class of 23)  
   
   Builder
@@ -94,6 +96,8 @@ William Yun (Class of 23)
 Saatvik Kumar (Class of 23)  
   
 Builder
+  
+<kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="500"/> </kbd>
   
 Jayden Koh (Class of 23)  
   
