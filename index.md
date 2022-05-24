@@ -1,4 +1,4 @@
-# DeBakey High School's Robotics Page
+# DeBakey High School Robotics
 This is the website for Michael E. DeBakey High School for Health Professions's VRC Robotics team run by Jayden Koh.
 
 <img align="center" src="assets/images/logo.jpg" alt="logo"/>
