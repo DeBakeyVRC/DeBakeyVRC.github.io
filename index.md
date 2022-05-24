@@ -56,33 +56,33 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 <summary>Meet our team:</summary>
 
 
-- Rusheel Mitakantti (Class of 23)
+> Rusheel Mitakantti (Class of 23)
   - Builder
 
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/> </kbd>
 
-- Josephine Duong (Class of 22)
+> Josephine Duong (Class of 22)
   - Builder
   
 <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="500"/> </kbd> 
 
-- Jacqueline Duong (Class of 24)
+> Jacqueline Duong (Class of 24)
   - Builder
   
 <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="500"/> </kbd> 
 
-- David Ding (Class of 23)
+> David Ding (Class of 23)
   - Builder
   
-- William Yun (Class of 23)
+> William Yun (Class of 23)
   - Builder
   
 <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Group" width="500"/> </kbd>
 
-- Saatvik Kumar (Class of 23)
+> Saatvik Kumar (Class of 23)
   - Builder
   
-- Jayden Koh (Class of 23)
+> Jayden Koh (Class of 23)
   - Programmer
   
 </details>
