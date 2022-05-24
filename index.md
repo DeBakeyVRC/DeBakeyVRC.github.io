@@ -31,14 +31,16 @@ A teaser video of our Regionals robot as we prepared for Worlds Championship
 A little recap video of our World Championship robot.
 
   
-#### Railgunawesome1 (14700H):
-A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
+#### Railgunawesome2 (14700H):
+A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
 
 <details>
 <summary>Meet the One-Man-Team</summary>
 
+
 > Justin Hung (Class of 22)
 
+  
 </details>
 
 #### Vipers (7390A):
@@ -47,9 +49,12 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 <details>
 <summary>Meet our team:</summary>
 
+
 > Rusheel Mitakantti (Class of 23)
 
+
 <img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/>
+
 
 > Josephine Duong (Class of 22)
 
