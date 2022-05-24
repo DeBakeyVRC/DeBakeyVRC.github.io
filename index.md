@@ -60,7 +60,7 @@ Programmer & Builder
 Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in the school.
   
 <details>
-<summary>Meet our team:</summary>
+<summary>Click here to view our team</summary>
 
   
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="500"/> </kbd>
