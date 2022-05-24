@@ -41,6 +41,8 @@ A teaser video of our Regionals robot as we prepared for the Worlds Championship
 A little recap video of our World Championship robot & an overall summary the Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced.
 
   
+ ### Tipping Point Robot Designs:
+  
 #### Railgunawesome2 (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
@@ -48,7 +50,8 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
 <summary>Meet the One-Man-Team</summary>
 
 
-> Justin Hung (Class of 22)
+Justin Hung (Class of 22)  
+
 Programmer & Builder
   
 </details>
@@ -60,41 +63,41 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 <summary>Meet our team:</summary>
 
 
-> Rusheel Mitakantti (Class of 23)
+Rusheel Mitakantti (Class of 23)  
   
-  Builder
+Builder
 
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/> </kbd>
 
-  > Josephine Duong (Class of 22)
+Josephine Duong (Class of 22)  
   
   Builder
   
 <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="500"/> </kbd> 
 
-> Jacqueline Duong (Class of 24)
+Jacqueline Duong (Class of 24)  
   
-  Builder
+Builder
   
 <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="500"/> </kbd> 
 
-> David Ding (Class of 23)
+David Ding (Class of 23)  
   
-  Builder
+Builder
   
-> William Yun (Class of 23)
+William Yun (Class of 23)  
   
   Builder
   
 <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Group" width="500"/> </kbd>
 
-> Saatvik Kumar (Class of 23)
+Saatvik Kumar (Class of 23)  
   
-  Builder
+Builder
   
-> Jayden Koh (Class of 23)
+Jayden Koh (Class of 23)  
   
-  Programmer
+Programmer
   
 </details>
   
