@@ -39,12 +39,13 @@ A veteran player, he played as a one-man-team during the Covid pandemic and qual
 
 > Justin Hung (Class of 22)
 
-</details>     
+</details>
 
 #### Vipers (7390A):
 Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite that, we were able to qualify for the Worlds Championships 2022 in Dallas, TX.
   
-  <summary>Meet our team:</summary>
+<details>
+<summary>Meet our team:</summary>
 
 > Rusheel Mitakantti (Class of 23)
 
@@ -68,6 +69,8 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 
 > Jayden Koh (Class of 23)
 
+</details>
+  
 <img src="assets/images/members/Worlds2022.jpg" alt="Group" width="500"/>
 
 Post-worlds competition photo in Dallas. 
