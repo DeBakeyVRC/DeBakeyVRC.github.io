@@ -24,7 +24,9 @@ N/A
 #### Railgunawesome (14700H):
 A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
 
-Meet the team:
+<Details>
+
+ <summary>Meet the team:</summary>
 
 > Justin Hung (Class of 22)
 
@@ -68,7 +70,7 @@ A little recap video of our World Championship robot.
 
 Post-worlds competition photo in Dallas. 
 
-  <Meet the team:>
+  </Details> 
   
 ### 2022-2023 VRC Spin Up:
 
