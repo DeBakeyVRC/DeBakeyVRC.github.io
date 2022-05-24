@@ -56,43 +56,43 @@ Justin Hung (Class of 22)
 </details>
 
 #### Vipers (7390A):
-Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in the school.
+Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
   
 <details>
 <summary>Click here to view our team</summary>
 
   
-<kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="500"/> </kbd>
+<kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
   
 Rusheel Mitakantti (Class of 23)  
  
 
-<kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/> </kbd>
+<kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
 
 Josephine Duong (Class of 22)  
  
   
-<kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="500"/> </kbd> 
+<kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="400"/> </kbd> 
 
 Jacqueline Duong (Class of 24)  
  
   
-<kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="500"/> </kbd> 
+<kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="400"/> </kbd> 
 
 David Ding (Class of 23)  
  
   
-<kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="500"/> </kbd> 
+<kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="400"/> </kbd> 
   
 William Yun (Class of 23)  
  
   
-<kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Group" width="500"/> </kbd>
+<kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Group" width="400"/> </kbd>
 
 Saatvik Kumar (Class of 23)  
  
   
-<kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="500"/> </kbd>
+<kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="400"/> </kbd>
   
 Jayden Koh (Class of 23)  
  
