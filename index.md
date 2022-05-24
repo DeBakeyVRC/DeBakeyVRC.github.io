@@ -48,7 +48,7 @@ Meet the team:
 
 > Josephine Duong (Class of 22)
 
-<img src="assets/images/members/crack2.JPG" alt="Crack" width="500"/>
+<img src="assets/images/members/Jose.PNG" alt="Crack" width="500"/>
 
 > Jacqueline Duong (Class of 24)
 
@@ -58,7 +58,7 @@ Meet the team:
 
 > William Yun (Class of 23)
 
-<img src="assets/images/members/mushroomdude.JPG" alt="Group" width="500"/>
+<img src="assets/images/members/mushroomdude2.JPG" alt="Group" width="500"/>
 
 > Saatvik Kumar (Class of 23)
 
