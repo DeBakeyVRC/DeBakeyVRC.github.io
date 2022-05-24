@@ -22,14 +22,14 @@ N/A
 ## 2021-2022 VRC Tipping Point:
 
 #### Railgunawesome (14700H):
-A veteran player, he played solo on his own team during the Covid pandemic.
+A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
 
 Meet the team:
 
 > Justin Hung (Class of 22)
 
 #### Vipers (7390A):
-Playing for Vipers, this was most of our first time's doing robotics at a competitive level. Despite that, we qualified for the Worlds Championships 2022 in Dallas, TX.
+Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite that, we were able to qualify for the Worlds Championships 2022 in Dallas, TX.
 
 [![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM)
 
@@ -44,7 +44,11 @@ Meet the team:
 
 > Rusheel Mitakantti (Class of 23)
 
+<img src="assets/images/members/IMG_E5726.JPG" alt="Jose" width="500"/>
+
 > Josephine Duong (Class of 22)
+
+<img src="assets/images/members/crack.JPG" alt="Crack" width="500"/>
 
 > Jacqueline Duong (Class of 24)
 
@@ -54,18 +58,20 @@ Meet the team:
 
 > William Yun (Class of 23)
 
+<img src="assets/images/members/mushroomdude.JPG" alt="Group" width="500"/>
+
 > Saatvik Kumar (Class of 23)
 
 > Jayden Koh (Class of 23)
 
 <img src="assets/images/members/Worlds2022.jpg" alt="Group" width="500"/>
 
-Our group picture lol.
+Post-worlds competition photo in Dallas. 
 
 ### 2022-2023 VRC Spin Up:
 
 
-### Contact
+### Contact: 
 
 [YouTube channel](https://www.youtube.com/channel/UCPRNu3b24dm8QbPjyHDwf6w)
 
