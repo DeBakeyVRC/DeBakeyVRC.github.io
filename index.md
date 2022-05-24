@@ -44,11 +44,11 @@ Meet the team:
 
 > Rusheel Mitakantti (Class of 23)
 
-<img src="assets/images/members/IMG_E5726.JPG" alt="Jose" width="500"/>
+<img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/>
 
 > Josephine Duong (Class of 22)
 
-<img src="assets/images/members/Jose.PNG" alt="Crack" width="500"/>
+<img src="assets/images/members/crack2.JPG" alt="Crack" width="500"/>
 
 > Jacqueline Duong (Class of 24)
 
