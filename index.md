@@ -21,18 +21,6 @@ N/A
 
 ## 2021-2022 VRC Tipping Point:
 
-#### Railgunawesome (14700H):
-A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
-
-<Details>
-
-<summary>Meet the team:</summary>
-
-> Justin Hung (Class of 22)
-
-#### Vipers (7390A):
-Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite that, we were able to qualify for the Worlds Championships 2022 in Dallas, TX.
-
 [![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM)
 
 A teaser video of our Regionals robot as we prepared for Worlds Championship
@@ -41,6 +29,24 @@ A teaser video of our Regionals robot as we prepared for Worlds Championship
 [![Worlds Recap Video](https://img.youtube.com/vi/QyE6XxmgVgw/0.jpg)](https://www.youtube.com/watch?v=QyE6XxmgVgw)
 
 A little recap video of our World Championship robot.
+
+
+<Details>
+
+<summary>Meet the team:</summary>
+  
+ #### Railgunawesome (14700H):
+A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
+
+  <Meet the One-Man-Team>
+  
+> Justin Hung (Class of 22)
+    
+    </Details> 
+
+#### Vipers (7390A):
+Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite that, we were able to qualify for the Worlds Championships 2022 in Dallas, TX.
+
 
 <Meet the team:>
 
