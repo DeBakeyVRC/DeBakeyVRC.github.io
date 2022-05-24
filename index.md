@@ -34,21 +34,21 @@ A little recap video of our World Championship robot.
  #### Railgunawesome (14700H):
 A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
 
-  <Meet the One-Man-Team>
+  <details>
   
    <summary>Meet the One-Man-Team</summary>
   
 > Justin Hung (Class of 22)
     
-    </Meet the One-Man-Team> 
+    </Details> 
 
 #### Vipers (7390A):
 Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite that, we were able to qualify for the Worlds Championships 2022 in Dallas, TX.
 
 
-<Meet our team:>
+<details>
   
-  <summary>Meet the team:</summary>
+  <summary>Meet our team:</summary>
 
 > Rusheel Mitakantti (Class of 23)
 
@@ -76,7 +76,7 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 
 Post-worlds competition photo in Dallas. 
 
-  </Meet our team> 
+  </details> 
   
 ### 2022-2023 VRC Spin Up:
 
