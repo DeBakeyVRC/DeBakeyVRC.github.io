@@ -40,8 +40,7 @@ A teaser video of our Regionals robot as we prepared for Worlds Championship
 
 A little recap video of our World Championship robot.
 
-<details>
-Meet the team:
+<Meet the team:>
 
 > Rusheel Mitakantti (Class of 23)
 
@@ -69,7 +68,7 @@ Meet the team:
 
 Post-worlds competition photo in Dallas. 
 
-  <details>
+  <Meet the team:>
   
 ### 2022-2023 VRC Spin Up:
 
