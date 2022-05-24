@@ -6,15 +6,15 @@ This is the Michael E. DeBakey High School for Health Professions's VRC Robotics
 
 <h1 align="center">DeBakey High School's Vipers!</h1>
 
-1x Tournament Champion Award
-1x Tournament Skills Award
-1x Worlds Championship Award 
-1x Regionals
-1x States
+1x Tournament Champion Award  
+1x Tournament Skills Award  
+1x Worlds Championship Award   
+1x Regionals  
+1x States  
 
 ## Partners:
 
-![Zachary Friske](https://img.youtube.com/vi/LWeRpSevDQM/0.jpg)
+![Zachary Friske] <kbd> (https://img.youtube.com/vi/LWeRpSevDQM/0.jpg) </kbd>
 
 Zachary Friske's favorite quote: 
 
