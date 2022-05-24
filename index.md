@@ -26,7 +26,7 @@ A veteran player, he played as a one-man-team during the Covid pandemic and qual
 
 <Details>
 
- <summary>Meet the team:</summary>
+### <summary>Meet the team:</summary>
 
 > Justin Hung (Class of 22)
 
