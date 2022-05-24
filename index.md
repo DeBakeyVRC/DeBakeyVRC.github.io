@@ -41,7 +41,7 @@ A teaser video of our Regionals robot as we prepared for the Worlds Championship
 A little recap video of our World Championship robot & an overall summary the Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced.
 
   
- ### Tipping Point Robot Designs:
+### Tipping Point Robot Designs:
   
 #### Railgunawesome2 (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
