@@ -48,7 +48,7 @@ Meet the team:
 
 > Josephine Duong (Class of 22)
 
-<img src="assets/images/members/crack.JPG" alt="Crack" width="500"/>
+<img src="assets/images/members/crack2.JPG" alt="Crack" width="500"/>
 
 > Jacqueline Duong (Class of 24)
 
