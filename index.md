@@ -31,7 +31,7 @@ A teaser video of our Regionals robot as we prepared for Worlds Championship
 A little recap video of our World Championship robot.
 
   
-#### Railgunawesome (14700H):
+#### Railgunawesome1 (14700H):
 A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
 
 <details open>
