@@ -24,9 +24,9 @@ N/A
 #### Railgunawesome (14700H):
 A veteran player, he played as a one-man-team during the Covid pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition.
 
-<Details>
+### <Details>
 
-### <summary>Meet the team:</summary>
+<summary>Meet the team:</summary>
 
 > Justin Hung (Class of 22)
 
