@@ -53,7 +53,7 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 > Rusheel Mitakantti (Class of 23)
 
 
-<img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/>
+ <img src="assets/images/members/Jose.PNG" alt="Jose" width="500"/>
 
 
 > Josephine Duong (Class of 22)
