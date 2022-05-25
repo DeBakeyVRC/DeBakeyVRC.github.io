@@ -6,8 +6,8 @@ This is the Michael E. DeBakey High School for Health Professions's VRC Robotics
 
 <h1 align="center">DeBakey High School's Vipers!</h1>
 
-| Achievements                                                      |
-| -------------------------------------------------------------------
+| 7390A Achievements                                                |
+| --------------------------------|:-------------------------------:|
 | 1x Tournament Champions Award   | 1x Judges Award?                |
 | 1x Tournament Skills Award      | 1x Design Award?                |
 | 1x Worlds Championship Award    | idk old senior                  |
@@ -44,8 +44,8 @@ A little recap video of our World Championship robot & an overall summary the Ti
 #### Railgunawesome1 (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
-| Achievements                                                      |
-| -------------------------------------------------------------------
+| 14700H Achievements                                               |
+| --------------------------------|--------------------------------:|
 | 69x Judges Awards               | 1x Judges Award?                |
 | 1x Beans                        | 69x Design Award?               |
 
