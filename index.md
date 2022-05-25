@@ -49,12 +49,14 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
 <details id="h1">
 <summary>Meet the One-Man-Team</summary>
 
+  
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
-  
+<div id = "hl">  
 Justin Hung (Class of 22) 
-  
-</details>
+</div>
 
+</details>
+  
 #### Vipers (7390A):
 Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
   
@@ -68,46 +70,34 @@ Rusheel Mitakantti (Class of 23)
 </div>
 
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
-
-  
-  
+<div id = "hl">  
 Josephine Duong (Class of 22)  
- 
+</div>
   
 <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="400"/> </kbd> 
-
-  
-  
+<div id = "hl">  
 Jacqueline Duong (Class of 24)  
- 
+</div>
   
 <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="400"/> </kbd> 
-
-  
-  
+<div id = "hl"> 
 David Ding (Class of 23)  
- 
+</div>
   
 <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="400"/> </kbd> 
-  
-  
-  
+<div id = "hl"> 
 William Yun (Class of 23)  
- 
+</div>
   
 <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="400"/> </kbd>
-
-  
-  
+<div id = "hl"> 
 Saatvik Kumar (Class of 23)  
- 
+</div>
   
 <kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="400"/> </kbd>
-  
-  
-  
+<div id = "hl">  
 Jayden Koh (Class of 23)  
- 
+</div>
   
 </details>
   
