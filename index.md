@@ -50,15 +50,15 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 
 <details><summary>Click here to view 14700H Achievements</summary>
 
-     - 69x Judges Awards
+- 69x Judges Awards
   
-     - Detail 1.2
+- Detail 1.2
   
-     - 1x Beans
+- 1x Beans
   
-     - 1x Judges Award?
+- 1x Judges Award?
   
-     - 69x Design Award?
+- 69x Design Award?
 
 </details>
 
@@ -85,25 +85,25 @@ Justin Hung (Class of 22) (Builder & Programmer)
  
  <details><summary>Click here to view 7390A Achievements</summary>
 
-     - 1x Tournament Champions Award
+- 1x Tournament Champions Award
   
-     - 1x Tournament Skills Award
+- 1x Tournament Skills Award
   
-     - 1x Worlds Championship Award
+- 1x Worlds Championship Award
   
-     - 1x Regionals  
+- 1x Regionals  
   
-     - 1x States  
+- 1x States  
   
-     - 1x Judges Award?    
+- 1x Judges Award?    
   
-     - 1x Design Award?   
+- 1x Design Award?   
   
-     - idk old senior   
+- idk old senior   
   
-     - 2x Participation
+- 2x Participation
   
-     - Rank 77 Worlds  :DD 
+- Rank 77 Worlds  :DD 
 
 </details>
  
