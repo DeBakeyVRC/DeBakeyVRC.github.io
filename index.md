@@ -56,7 +56,10 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
   
   
 <details id="h1">
-### <summary>Click here to view more about Justin</summary>
+<summary>
+### Click here to view more about Justin
+  
+</summary>
 
 
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
@@ -85,7 +88,7 @@ Justin Hung (Class of 22)
 
 
 <details id="hl">
-### <summary id="hl">Click here to view more about our team</summary>
+<summary id="hl">Click here to view more about our team</summary>
 
 
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
