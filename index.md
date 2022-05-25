@@ -25,13 +25,12 @@ N/A
 
 [![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM "Regionals Recap Video")
 
-Check out a teaser video of our Regionals robot as we prepared for the Worlds Championship.
-
+> Check out a teaser video of our Regionals robot as we prepared for the Worlds Championship.
 
 [![Worlds Recap Video](https://img.youtube.com/vi/QyE6XxmgVgw/0.jpg)](https://www.youtube.com/watch?v=QyE6XxmgVgw "Worlds Recap Video")
 
-An overall recap video of our World Championship robot & Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced. 
-
+> An overall recap video of our World Championship robot & Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced. 
+  
   
 ### Tipping Point Robot Designs:
   
@@ -48,17 +47,15 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 #### Railgunawesome1 (14700H):
 > A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
-<details><summary>Click here to view 14700H Achievements</summary>
+<details>
+<summary>
+Click here to view 14700H Achievements
+</summary>
 
-- 69x Judges Awards
-  
-- Detail 1.2
-  
-- 1x Beans
-  
-- 1x Judges Award?
-  
-- 69x Design Award?
+| 14700H Achievements                                               |
+| ------------------------------------------------------------------|
+| 69x Judges Awards               | 1x Judges Award?                |
+| 1x Beans                        | 69x Design Award?               |
 
 </details>
 
@@ -83,27 +80,21 @@ Justin Hung (Class of 22) (Builder & Programmer)
 > Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. 
 > With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
  
- <details><summary>Click here to view 7390A Achievements</summary>
+ <details>
+ <summary>
+   
+ Click here to view 7390A Achievements
+   
+ </summary>
 
-- 1x Tournament Champions Award
+| 7390A Achievements                                                |
+| ------------------------------------------------------------------|
+| 1x Tournament Champions Award   | 1x Judges Award?                |
+| 1x Tournament Skills Award      | 1x Design Award?                |
+| 1x Worlds Championship Award    | idk old senior                  |
+| 1x Regionals                    | 2x Participation                |
+| 1x States                       | Rank 77 Worlds  :DD             |
   
-- 1x Tournament Skills Award
-  
-- 1x Worlds Championship Award
-  
-- 1x Regionals  
-  
-- 1x States  
-  
-- 1x Judges Award?    
-  
-- 1x Design Award?   
-  
-- idk old senior   
-  
-- 2x Participation
-  
-- Rank 77 Worlds  :DD 
 
 </details>
  
