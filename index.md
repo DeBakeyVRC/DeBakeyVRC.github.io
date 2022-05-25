@@ -47,17 +47,10 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 #### Railgunawesome1 (14700H):
 > A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
-<details>
-<summary>
-Click here to view 14700H Achievements
-</summary>
-
 | 14700H Achievements                                               |
 | ------------------------------------------------------------------|
 | 69x Judges Awards               | 1x Judges Award?                |
 | 1x Beans                        | 69x Design Award?               |
-
-</details>
 
   
 <details id="h1">
@@ -80,13 +73,6 @@ Justin Hung (Class of 22) (Builder & Programmer)
 > Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. 
 > With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
  
- <details>
- <summary>
-   
- Click here to view 7390A Achievements
-   
- </summary>
-
 | 7390A Achievements                                                |
 | ------------------------------------------------------------------|
 | 1x Tournament Champions Award   | 1x Judges Award?                |
@@ -94,9 +80,6 @@ Justin Hung (Class of 22) (Builder & Programmer)
 | 1x Worlds Championship Award    | idk old senior                  |
 | 1x Regionals                    | 2x Participation                |
 | 1x States                       | Rank 77 Worlds  :DD             |
-  
-
-</details>
  
 
 <details id="hl">
