@@ -9,17 +9,5 @@ test.addEventListener("mouseenter", function( event ) {
   // reset the color after a short delay
   setTimeout(function() {
     event.target.style.color = "";
-  }, 300);
-}, false);
-
-// This handler will be executed every time the cursor
-// is moved over a different list item
-test.addEventListener("mouseover", function( event ) {
-  // highlight the mouseover target
-  event.target.style.color = "orange";
-
-  // reset the color after a short delay
-  setTimeout(function() {
-    event.target.style.color = "";
-  }, 300);
+  }, 500);
 }, false);
