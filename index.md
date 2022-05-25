@@ -45,8 +45,8 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 
 ## Meet Debakey Viper's Robotics Team!
   
-#### **Railgunawesome1 (14700H):**
-A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
+#### Railgunawesome1 (14700H):
+> A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
 | 14700H Achievements                                               |
 | ------------------------------------------------------------------|
@@ -56,7 +56,7 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
   
   
 <details id="h1">
-<summary>**Click here to view more about Justin**</summary>
+<summary>Click here to view more about Justin</summary>
 
 
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
@@ -71,8 +71,8 @@ Justin Hung (Class of 22)
 
 </details>
   
-#### **Vipers (7390A):**
-Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
+#### Vipers (7390A):
+> Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
    
    
 | 7390A Achievements                                                |
@@ -85,13 +85,13 @@ Playing for Vipers, this was majority of our club member's first time doing robo
   
   
 <details id="hl">
-<summary id="hl">**Click here to view more about our team**</summary>
+<summary id="hl">Click here to view more about our team</summary>
 
 
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
 <div id = "hl">  
-Rusheel Mitakantti (Class of 23)
-> Builder
+**Rusheel Mitakantti** (Class of 23)
+(Builder)
 </div>
 
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
