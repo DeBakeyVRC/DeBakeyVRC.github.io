@@ -6,15 +6,15 @@ This is the Michael E. DeBakey High School for Health Professions's VRC Robotics
 
 <h1 align="center">DeBakey High School's Vipers!</h1>
 
-1x Tournament Champion Award  
-
-1x Tournament Skills Award  
-
-1x Worlds Championship Award   
-
-1x Regionals  
-
-1x States  
+| Achievements                    |
+| ------------------------------- |
+| 1x Tournament Champion Award    |
+| 1x Tournament Skills Award      |
+| 1x Worlds Championship Award    |
+| 1x Regionals                    |
+| 1x States                       |
+| 2x Participation                |
+| 2x Participation                |
 
 ## Partners:
 
