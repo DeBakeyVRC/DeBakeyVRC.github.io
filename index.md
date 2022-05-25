@@ -69,30 +69,42 @@ Rusheel Mitakantti (Class of 23)
 
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
 
+  
+  
 Josephine Duong (Class of 22)  
  
   
 <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="400"/> </kbd> 
 
+  
+  
 Jacqueline Duong (Class of 24)  
  
   
 <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="400"/> </kbd> 
 
+  
+  
 David Ding (Class of 23)  
  
   
 <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="400"/> </kbd> 
+  
+  
   
 William Yun (Class of 23)  
  
   
 <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="400"/> </kbd>
 
+  
+  
 Saatvik Kumar (Class of 23)  
  
   
 <kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="400"/> </kbd>
+  
+  
   
 Jayden Koh (Class of 23)  
  
