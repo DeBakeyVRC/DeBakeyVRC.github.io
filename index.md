@@ -30,17 +30,19 @@ N/A
 
 ## 2021-2022 VRC Tipping Point:
 
-[![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM)
+[![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM "Regionals Recap Video")
 
 A teaser video of our Regionals robot as we prepared for the Worlds Championship.
 
 
-[![Worlds Recap Video](https://img.youtube.com/vi/QyE6XxmgVgw/0.jpg)](https://www.youtube.com/watch?v=QyE6XxmgVgw)
+[![Worlds Recap Video](https://img.youtube.com/vi/QyE6XxmgVgw/0.jpg)](https://www.youtube.com/watch?v=QyE6XxmgVgw "Worlds Recap Video")
 
 A little recap video of our World Championship robot & an overall summary the Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced.
 
   
 ### Tipping Point Robot Designs:
+  
+---
   
 ### 2022-2023 VRC Spin Up:
   
@@ -51,6 +53,8 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
 | ------------------------------------------------------------------|
 | 69x Judges Awards               | 1x Judges Award?                |
 | 1x Beans                        | 69x Design Award?               |
+
+  
 
 <details id="h1">
 <summary>Meet the One-Man-Team</summary>
@@ -116,9 +120,9 @@ Post-worlds competition photo in Dallas.
 
 ### Contact: 
 
-[YouTube channel](https://www.youtube.com/channel/UCPRNu3b24dm8QbPjyHDwf6w)
+[YouTube channel](https://www.youtube.com/channel/UCPRNu3b24dm8QbPjyHDwf6w "Click to visit 7390A Vipers")
 
-[School Website](https://www.houstonisd.org/debakey) 
+[School Website](https://www.houstonisd.org/debakey "Click to visit Debakey HSHP homepage") 
 
 Contact teacher at <teacher@houstonisd.org> for school information or Jayden at <jkohhokj@gmail.com> about website or club information.
 
