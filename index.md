@@ -1,10 +1,10 @@
 # **DeBakey High School Robotics**
-This is the Michael E. DeBakey High School for Health Professions's VRC Robotics team run by Jayden Koh.
+This is the Michael E. DeBakey High School for Health Professions's VRC Robotics team page run by Jayden Koh.
 
 <img align="center" src="assets/images/logo.jpg" alt="logo"/>
 
 
-<h1 align="center">DeBakey High School's Vipers!</h1>
+<h1 align="center">Representing Debakey HSHP. Go Vipers!</h1>
 
 | 7390A Achievements                                                |
 | ------------------------------------------------------------------|
@@ -44,7 +44,11 @@ A little recap video of our World Championship robot & an overall summary the Ti
   
 ---
   
-### 2022-2023 VRC Spin Up:
+## 2022-2023 VRC Spin Up:
+  
+---
+
+## Meet Debakey Viper's Robotics Team!
   
 #### Railgunawesome1 (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
@@ -53,11 +57,11 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
 | ------------------------------------------------------------------|
 | 69x Judges Awards               | 1x Judges Award?                |
 | 1x Beans                        | 69x Design Award?               |
-
   
-
+  
+  
 <details id="h1">
-<summary>Meet the One-Man-Team</summary>
+<summary>Click here to view Justin's One-Man-Team</summary>
 
 
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
