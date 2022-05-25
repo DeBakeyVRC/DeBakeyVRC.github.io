@@ -43,11 +43,11 @@ A little recap video of our World Championship robot & an overall summary the Ti
   
 ### Tipping Point Robot Designs:
   
-#### Railgunawesome (14700H):
+#### Railgunawesome1 (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
-<details>
-<summary id="h1">Meet the One-Man-Team</summary>
+<details id="h1">
+<summary>Meet the One-Man-Team</summary>
 
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
   
@@ -58,8 +58,8 @@ Justin Hung (Class of 22)
 #### Vipers (7390A):
 Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
   
-<details>
-<summary id="h1">Click here to view our team</summary>
+<details id="h1">
+<summary>Click here to view our team</summary>
 
 
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
