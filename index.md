@@ -43,7 +43,7 @@ A little recap video of our World Championship robot & an overall summary the Ti
   
 ### Tipping Point Robot Designs:
   
-#### Railgunawesome2 (14700H):
+#### Railgunawesome (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
 
 <details>
@@ -61,11 +61,11 @@ Playing for Vipers, this was majority of our club member's first time doing robo
 <details>
 <summary>Click here to view our team</summary>
 
-<div id = "hl">  
+
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
-  
+<div id = "hl">  
 Rusheel Mitakantti (Class of 23)  
-  </div>
+</div>
 
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
 
@@ -115,8 +115,4 @@ Post-worlds competition photo in Dallas.
 
 Contact teacher at <teacher@houstonisd.org> for school information or Jayden at <jkohhokj@gmail.com> about website or club information.
 
-<div id="text"></div>
- 
-<html>
-<script src="assets/javascript.js" type="text/javascript"></script>
-  </html>
+<script src="assets/script.js" type="text/javascript"></script>
