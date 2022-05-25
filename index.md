@@ -56,7 +56,7 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
   
   
 <details id="h1">
-<summary>Click here to view more about Justin</summary>
+### <summary>Click here to view more about Justin</summary>
 
 
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
@@ -73,8 +73,8 @@ Justin Hung (Class of 22)
   
 #### Vipers (7390A):
 > Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
-   
-   
+ 
+ 
 | 7390A Achievements                                                |
 | ------------------------------------------------------------------|
 | 1x Tournament Champions Award   | 1x Judges Award?                |
@@ -82,15 +82,15 @@ Justin Hung (Class of 22)
 | 1x Worlds Championship Award    | idk old senior                  |
 | 1x Regionals                    | 2x Participation                |
 | 1x States                       | Rank 77 Worlds  :DD             |
-  
-  
+
+
 <details id="hl">
-<summary id="hl">Click here to view more about our team</summary>
+### <summary id="hl">Click here to view more about our team</summary>
 
 
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
 <div id = "hl">  
-**Rusheel Mitakantti** (Class of 23)
+Rusheel Mitakantti (Class of 23)
 (Builder)
 </div>
 
