@@ -49,10 +49,17 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
 <details id="h1">
 <summary>Meet the One-Man-Team</summary>
 
-  
+<p align = "center">
+
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
 <div id = "hl">  
-Justin Hung (Class of 22) 
+ 
+</p>
+
+<p align = "center">
+Justin Hung (Class of 22)
+</p> 
+
 </div>
 
 </details>
