@@ -52,6 +52,7 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 | 69x Judges Awards               | 1x Judges Award?                |
 | 1x Beans                        | 69x Design Award?               |
 
+<br/>
   
 <details id="h1">
 <summary>
@@ -81,6 +82,7 @@ Justin Hung (Class of 22) (Builder & Programmer)
 | 1x Regionals                    | 2x Participation                |
 | 1x States                       | Rank 77 Worlds  :DD             |
  
+ <br/>
 
 <details id="hl">
 <summary id="hl">Click here to view more about our team</summary>
