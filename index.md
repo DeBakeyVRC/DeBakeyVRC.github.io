@@ -62,7 +62,9 @@ A veteran player, he played as a one-man-team during the Covid-19 pandemic and q
 <kbd> <img src="assets/images/members/justi.JPG" alt="justic" width="500"/> </kbd>
 <div id = "hl">  
 Justin Hung (Class of 22)  
-> Builder & Programmer
+  
+- Builder & Programmer
+  
 </div>
 
 </details>
