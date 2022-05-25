@@ -26,6 +26,7 @@ Zachary Friske's favorite quote:
 
 N/A
 
+---
 
 ## 2021-2022 VRC Tipping Point:
 
@@ -40,6 +41,8 @@ A little recap video of our World Championship robot & an overall summary the Ti
 
   
 ### Tipping Point Robot Designs:
+  
+### 2022-2023 VRC Spin Up:
   
 #### Railgunawesome1 (14700H):
 A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
@@ -108,9 +111,8 @@ Jayden Koh (Class of 23)
 
 Post-worlds competition photo in Dallas. 
 
-  
-### 2022-2023 VRC Spin Up:
 
+---
 
 ### Contact: 
 
