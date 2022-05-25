@@ -21,7 +21,7 @@ N/A
 
 ---
 
-# 2021-2022 VRC Tipping Point:
+## 2021-2022 VRC Tipping Point:
 
 [![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM "Regionals Recap Video")
 
@@ -30,14 +30,14 @@ N/A
 [![Worlds Recap Video](https://img.youtube.com/vi/QyE6XxmgVgw/0.jpg)](https://www.youtube.com/watch?v=QyE6XxmgVgw "Worlds Recap Video")
 
 > An overall recap video of our World Championship robot & Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced. 
-  
 <br/>
   
 ### Tipping Point Robot Designs:
+<br/>
   
 ---
   
-# 2022-2023 VRC Spin Up:
+## 2022-2023 VRC Spin Up:
 
 add early season reveal here
 
@@ -46,6 +46,7 @@ add early season reveal here
 ### Spin Up Robot Designs:
   
 As we prepare for the upcomming season, our design for the bot can be outlined in these basic sketches and CAD models:
+<br/>
   
 ---
 
@@ -78,6 +79,7 @@ Justin Hung (Class of 22) (Builder & Programmer)
 </div>
 
 </details>
+<br/>
   
 **Vipers (7390A):**
 > Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. 
@@ -147,11 +149,9 @@ Jayden Koh (Class of 23) (Programmer)
 </div>
   
 </details>
+<br/>
   
 <kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="500"/> </kbd>
-
-<br/>
-
 Post-worlds competition photo in Dallas. 
 ---
 
