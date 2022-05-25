@@ -21,7 +21,7 @@ N/A
 
 ---
 
-## 2021-2022 VRC Tipping Point:
+# 2021-2022 VRC Tipping Point:
 
 [![Regionals Recap Video](https://img.youtube.com/vi/eypWUHWcoWM/0.jpg)](https://www.youtube.com/watch?v=eypWUHWcoWM "Regionals Recap Video")
 
@@ -31,12 +31,19 @@ N/A
 
 > An overall recap video of our World Championship robot & Tipping Point 2021-2022 season showing how we made variations of the bot throughout the season to tackle on specific game strategies & showing how we progressed throughout the year as we become more experienced. 
   
+<br/>
   
 ### Tipping Point Robot Designs:
   
 ---
   
-## 2022-2023 VRC Spin Up:
+# 2022-2023 VRC Spin Up:
+
+add early season reveal here
+
+<br/>
+
+### Spin Up Robot Designs:
   
 As we prepare for the upcomming season, our design for the bot can be outlined in these basic sketches and CAD models:
   
@@ -44,8 +51,10 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 
 ## Meet Debakey Viper's Robotics Team!
   
-#### Railgunawesome1 (14700H):
+**Railgunawesome1 (14700H):**
 > A veteran player, he played as a one-man-team during the Covid-19 pandemic and qualified for the Vex 2020-2021 Vex Change Up Worlds Competition with a maxed out skills score.
+
+<br/>
 
 | 14700H Achievements                                               |
 | ------------------------------------------------------------------|
@@ -70,9 +79,11 @@ Justin Hung (Class of 22) (Builder & Programmer)
 
 </details>
   
-#### Vipers (7390A):
+**Vipers (7390A):**
 > Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. 
 > With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
+ 
+<br/>
  
 | 7390A Achievements                                                |
 | ------------------------------------------------------------------|
@@ -93,30 +104,42 @@ Justin Hung (Class of 22) (Builder & Programmer)
 Rusheel Mitakantti (Class of 23) (Builder)
 </div>
 
+<br/>
+  
 <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
 <div id = "hl">  
 Josephine Duong (Class of 22) (Builder)
 </div>
+  
+<br/>
   
 <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="400"/> </kbd> 
 <div id = "hl">  
 Jacqueline Duong (Class of 24) (Builder)
 </div>
   
+<br/>
+  
 <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="400"/> </kbd> 
 <div id = "hl"> 
 David Ding (Class of 23) (Builder)
 </div>
   
+<br/>
+  
 <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="400"/> </kbd> 
 <div id = "hl"> 
 William Yun (Class of 23) (Builder)
 </div>
+
+<br/>
   
 <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="400"/> </kbd>
 <div id = "hl"> 
 Saatvik Kumar (Class of 23) (Builder)
 </div>
+
+<br/>
   
 <kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="400"/> </kbd>
 <div id = "hl">  
@@ -127,9 +150,9 @@ Jayden Koh (Class of 23) (Programmer)
   
 <kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="500"/> </kbd>
 
+<br/>
+
 Post-worlds competition photo in Dallas. 
-
-
 ---
 
 ### Contact: 
