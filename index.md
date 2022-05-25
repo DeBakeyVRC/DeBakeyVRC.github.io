@@ -58,8 +58,8 @@ Justin Hung (Class of 22)
 #### Vipers (7390A):
 Playing for Vipers, this was majority of our club member's first time doing robotics at a competitive level. Despite our novice background, we were able to qualify for the Worlds Championships 2022 in Dallas, TX. With a great start of our first year competing at the Vex Robotics Competition, we plan to continue on and teach our growing club in our school.
   
-<details id="h1">
-<summary>Click here to view our team</summary>
+<details id="hl">
+<summary id="hl">Click here to view our team</summary>
 
 
 <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
@@ -87,7 +87,7 @@ David Ding (Class of 23)
 William Yun (Class of 23)  
  
   
-<kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Group" width="400"/> </kbd>
+<kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="400"/> </kbd>
 
 Saatvik Kumar (Class of 23)  
  
