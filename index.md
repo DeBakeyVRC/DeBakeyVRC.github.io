@@ -59,8 +59,11 @@ As we prepare for the upcomming season, our design for the bot can be outlined i
 
 | 14700H Achievements                                               |
 | ------------------------------------------------------------------|
-| 69x Judges Awards               | 1x Judges Award?                |
-| 1x Beans                        | 69x Design Award?               |
+| 3x Judges Awards               | 3x Tournament Champions          |
+| 3x Excellence Award            | 3x Design Award                  |
+| 2x Tournament Finalists        |                                  |
+| 2x Excellence Award            |                                  |
+| 2x Excellence Award            |                                  |
 
 <br/>
   
@@ -87,13 +90,17 @@ Justin Hung (Class of 22) (Builder & Programmer)
  
 <br/>
  
+<kbd> <img src="assets/images/members/awards.JPG" alt="7390A Awards" width="500"/> </kbd>
+ 
+<br/>
+ 
 | 7390A Achievements                                                |
 | ------------------------------------------------------------------|
-| 1x Tournament Champions Award   | 1x Judges Award?                |
-| 1x Tournament Skills Award      | 1x Design Award?                |
-| 1x Worlds Championship Award    | idk old senior                  |
-| 1x Regionals                    | 2x Participation                |
-| 1x States                       | Rank 77 Worlds  :DD             |
+| 2x Tournament Champions Award   | 4x Judges Award?                |
+| 1x Tournament Skills Award      | 1x Robot Skills Champioins      |
+| 1x Worlds Championship Award    |                                 |
+| 1x Regionals                    |                                 |
+| 1x States                       |                                 |
  
  <br/>
 
