@@ -45,7 +45,7 @@ add early season reveal here
 
 ### Spin Up Robot Designs:
   
-As we prepare for the upcomming season, our design for the bot can be outlined in these basic sketches and CAD models:
+As we prepare for the upcoming season, our design for the bot can be outlined in these basic sketches and CAD models:
 <br/>
   
 ---
@@ -159,7 +159,9 @@ Jayden Koh (Class of 23) (Programmer)
 <br/>
   
 <kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="500"/> </kbd>
+  
 Post-worlds competition photo in Dallas. 
+  
 ---
 
 ### Contact: 
