@@ -33,6 +33,12 @@ N/A
 <br/>
   
 ### Tipping Point Robot Designs:
+<p float="left">
+  <img src="assets/images/robotpics/nood1.PNG" width="100" />
+  <img src="assets/images/robotpics/nood2.JPG" width="100" /> 
+  <img src="assets/images/robotpics/nood3.JPG" width="100" />
+</p>
+
 <br/>
   
 ---
