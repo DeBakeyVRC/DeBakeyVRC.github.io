@@ -34,27 +34,27 @@ N/A
   
 ### Tipping Point Robot Designs:
 <p float="left">
-  <img src="assets/images/robotpics/nood1.PNG" width="300" />
-  <img src="assets/images/robotpics/nood2.JPG" width="300" /> 
-  <img src="assets/images/robotpics/nood3.JPG" width="300" />
+  <img src="assets/images/robotpics/nood1.PNG" width="250" />
+  <img src="assets/images/robotpics/nood2.JPG" width="250" /> 
+  <img src="assets/images/robotpics/nood3.JPG" width="250" />
 </p>
 
 <p float="left">
-  <img src="assets/images/robotpics/nood4.JPG" width="300" />
-  <img src="assets/images/robotpics/nood5.JPG" width="300" /> 
-  <img src="assets/images/robotpics/nood6.JPG" width="300" />
+  <img src="assets/images/robotpics/nood4.JPG" width="250" />
+  <img src="assets/images/robotpics/nood5.JPG" width="250" /> 
+  <img src="assets/images/robotpics/nood6.JPG" width="250" />
 </p>
 
 <p float="left">
-  <img src="assets/images/robotpics/nood7.JPG" width="300" />
-  <img src="assets/images/robotpics/nood8.jpg" width="300" /> 
-  <img src="assets/images/robotpics/nood9.JPG" width="300" />
+  <img src="assets/images/robotpics/nood7.JPG" width="250" />
+  <img src="assets/images/robotpics/nood8.jpg" width="250" /> 
+  <img src="assets/images/robotpics/nood9.JPG" width="250" />
 </p>
 
 <p float="left">
-  <img src="assets/images/robotpics/nood10.jpg" width="300" />
-  <img src="assets/images/robotpics/nood11.jpg" width="300" /> 
-  <img src="assets/images/robotpics/nood12.jpg" width="300" />
+  <img src="assets/images/robotpics/nood10.jpg" width="250" />
+  <img src="assets/images/robotpics/nood11.jpg" width="250" /> 
+  <img src="assets/images/robotpics/nood12.jpg" width="250" />
 </p>
 
 <br/>
