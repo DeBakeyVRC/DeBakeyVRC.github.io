@@ -133,23 +133,23 @@ Justin Hung (Class of 22) (Builder & Programmer)
 
 
 <p float="left">
-  <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="250"/> </kbd> 
-  <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="250"/> </kbd> 
-  <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="250" height="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="250" height="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="250" height="250"/> </kbd> 
 </p>
 
 <p float="left">
-  <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="250"/> </kbd> 
-  <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="250"/> </kbd> 
-  <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="250"/> </kbd>
+  <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="250" height="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="250" height="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="250" height="250"/> </kbd>
 </p>
 
-  <kbd> <img align="center" src="assets/images/members/Jay.JPG" alt="Jay" width="250"/> </kbd>
+  <kbd> <img align="center" src="assets/images/members/Jay.JPG" alt="Jay" width="250" height="250"/> </kbd>
   
 </details>
 <br/>
   
-<kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="250"/> </kbd>
+<kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="400"/> </kbd>
   
 Post-worlds competition photo in Dallas. 
   
