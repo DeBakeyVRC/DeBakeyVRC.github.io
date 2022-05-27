@@ -34,21 +34,21 @@ N/A
   
 ### Tipping Point Robot Designs:
 <p float="left">
-  <img src="assets/images/robotpics/nood1.PNG" width="250" height="190"/>
-  <img src="assets/images/robotpics/nood2.JPG" width="250" /> 
-  <img src="assets/images/robotpics/nood3.JPG" width="250" />
+ <kbd> <img src="assets/images/robotpics/nood1.PNG" width="250" height="185"/> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood2.JPG" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood3.JPG" width="250" /> </kbd> 
 </p>
 
 <p float="left">
-  <img src="assets/images/robotpics/nood4.JPG" width="250" />
-  <img src="assets/images/robotpics/nood5.JPG" width="250" /> 
-  <img src="assets/images/robotpics/nood6.JPG" width="250" />
+ <kbd> <img src="assets/images/robotpics/nood4.JPG" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood5.JPG" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood6.JPG" width="250" /> </kbd> 
 </p>
 
 <p float="left">
-  <img src="assets/images/robotpics/nood7.JPG" width="250" />
-  <img src="assets/images/robotpics/nood8.jpg" width="250" /> 
-  <img src="assets/images/robotpics/nood11.jpg" width="250" /> 
+ <kbd> <img src="assets/images/robotpics/nood7.JPG" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood8.jpg" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood11.jpg" width="250" /> </kbd> 
 </p>
 
 <p float="left">
@@ -133,23 +133,23 @@ Justin Hung (Class of 22) (Builder & Programmer)
 
 
 <p float="left">
-  <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="275"/> </kbd> 
-  <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="275"/> </kbd> 
-  <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="275"/> </kbd> 
+  <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="250"/> </kbd> 
 </p>
 
 <p float="left">
-  <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="400"/> </kbd> 
-   <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="400"/> </kbd> 
-<kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="400"/> </kbd>
+  <kbd> <img src="assets/images/members/DavidDing.jpg" alt="David" width="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/Will.JPG" alt="Will" width="250"/> </kbd> 
+  <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="250"/> </kbd>
 </p>
 
-<kbd> <img align="center" src="assets/images/members/Jay.JPG alt="Jay"/> width="400"/> </kbd>
+  <kbd> <img align="center" src="assets/images/members/Jay.JPG" alt="Jay" width="250"/> </kbd>
   
 </details>
 <br/>
   
-<kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="500"/> </kbd>
+<kbd> <img src="assets/images/members/postworlds.JPG" alt="Group" width="250"/> </kbd>
   
 Post-worlds competition photo in Dallas. 
   
