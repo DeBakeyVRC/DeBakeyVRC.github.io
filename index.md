@@ -52,9 +52,9 @@ N/A
 </p>
 
 <p float="left">
-  <img src="assets/images/robotpics/nood10.jpg" width="250" />
-  <img src="assets/images/robotpics/nood9.JPG" width="250" />
-  <img src="assets/images/robotpics/nood12.jpg" width="250" />
+ <kbd> <img src="assets/images/robotpics/nood10.jpg" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood9.JPG" width="250" /> </kbd> 
+ <kbd> <img src="assets/images/robotpics/nood12.jpg" width="250" /> </kbd> 
 </p>
 
 <br/>
