@@ -48,12 +48,12 @@ N/A
 <p float="left">
   <img src="assets/images/robotpics/nood7.JPG" width="250" />
   <img src="assets/images/robotpics/nood8.jpg" width="250" /> 
-  <img src="assets/images/robotpics/nood9.JPG" width="250" />
+  <img src="assets/images/robotpics/nood11.jpg" width="250" /> 
 </p>
 
 <p float="left">
   <img src="assets/images/robotpics/nood10.jpg" width="250" />
-  <img src="assets/images/robotpics/nood11.jpg" width="250" /> 
+  <img src="assets/images/robotpics/nood9.JPG" width="250" />
   <img src="assets/images/robotpics/nood12.jpg" width="250" />
 </p>
 
@@ -132,24 +132,22 @@ Justin Hung (Class of 22) (Builder & Programmer)
 <summary id="hl">Click here to view more about our team</summary>
 
 
-<kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
+<p float="left">
+  <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="400"/> </kbd>
 <div id = "hl">  
 Rusheel Mitakantti (Class of 23) (Builder)
 </div>
-
-<br/>
   
-<kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
+  <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="400"/> </kbd>
 <div id = "hl">  
 Josephine Duong (Class of 22) (Builder)
 </div>
   
-<br/>
-  
-<kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="400"/> </kbd> 
+  <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="400"/> </kbd> 
 <div id = "hl">  
 Jacqueline Duong (Class of 24) (Builder)
 </div>
+</p>
   
 <br/>
   
