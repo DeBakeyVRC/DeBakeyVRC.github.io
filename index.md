@@ -34,7 +34,7 @@ N/A
   
 ### Tipping Point Robot Designs:
 <p float="left">
-  <img src="assets/images/robotpics/nood1.PNG" width="250" height="175"/>
+  <img src="assets/images/robotpics/nood1.PNG" width="250" height="200"/>
   <img src="assets/images/robotpics/nood2.JPG" width="250" /> 
   <img src="assets/images/robotpics/nood3.JPG" width="250" />
 </p>
@@ -133,20 +133,12 @@ Justin Hung (Class of 22) (Builder & Programmer)
 
 
 <p float="left">
-  <kbd> <img src="assets/images/members/rusg.JPG" alt="rusg" width="275"/> </kbd>
-<div id = "hl">  
-Rusheel Mitakantti (Class of 23) (Builder)
-</div>
-  
-  <kbd> <img src="assets/images/members/Jose.PNG" alt="Jose" width="275"/> </kbd>
-<div id = "hl">  
+  <img src="assets/images/members/rusg.JPG" alt="rusg" width="275"/>
+Rusheel Mitakantti (Class of 23) (Builder) 
+  <img src="assets/images/members/Jose.PNG" alt="Jose" width="275"/>
 Josephine Duong (Class of 22) (Builder)
-</div>
-  
-  <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="275"/> </kbd> 
-<div id = "hl">  
+  <img src="assets/images/members/crack2.JPG" alt="Crack" width="275"/>
 Jacqueline Duong (Class of 24) (Builder)
-</div>
 </p>
   
 <br/>
