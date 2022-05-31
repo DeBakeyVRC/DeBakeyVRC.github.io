@@ -114,7 +114,7 @@ Justin Hung (Class of 22) (Builder & Programmer)
  
 <br/>
  
-<kbd> <img src="assets/images/members/awards.JPG" alt="7390A Awards" width="500"/> </kbd>
+<kbd> <img align="center" src="assets/images/members/awards.JPG" alt="7390A Awards" width="500"/> </kbd>
  
 <br/>
  
