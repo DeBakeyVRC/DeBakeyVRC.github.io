@@ -147,7 +147,7 @@ Justin Hung (Class of 22) (Builder & Programmer)
   <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="250" height="250"/> </kbd>
 </p>
 
-| David Ding (Class of 23)       | William Yun (Class of 23)       | Saatvik Kumar (Class of 23) |
+| David Ding (Class of 23) &emsp | William Yun (Class of 23) &emsp | Saatvik Kumar (Class of 23) |
                           
 <p float="left">
   <kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="250" height="250"/> </kbd>
