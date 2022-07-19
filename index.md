@@ -138,7 +138,7 @@ Justin Hung (Class of 22) (Builder & Programmer)
   <kbd> <img src="assets/images/members/crack2.JPG" alt="Crack" width="250" height="250"/> </kbd> 
 </p>
 
-&ensp; Rusheel Mitakantti (Class of 23) &ensp; Josephine Duong (Class of 22) &ensp; Jacqueline Duong (Class of 24) 
+&nbsp; Rusheel Mitakantti (Class of 23) &ensp; Josephine Duong (Class of 22) &ensp;&nbsp; Jacqueline Duong (Class of 24) 
 
 
 <p float="left">
@@ -147,7 +147,7 @@ Justin Hung (Class of 22) (Builder & Programmer)
   <kbd> <img src="assets/images/members/mushroomdude2.JPG" alt="Saatvik" width="250" height="250"/> </kbd>
 </p>
 
-&ensp;&ensp;&ensp; David Ding (Class of 23) &ensp;&ensp;&ensp; &emsp;&ensp; William Yun (Class of 23) &emsp;&ensp;&ensp; Saatvik Kumar (Class of 23)
+&ensp;&ensp;&ensp; David Ding (Class of 23) &ensp;&ensp;&ensp; &emsp;&ensp;&nbsp; William Yun (Class of 23) &emsp;&ensp;&ensp; &emsp; Saatvik Kumar (Class of 23)
                           
 <p float="left">
   <kbd> <img src="assets/images/members/Jay.JPG" alt="Jay" width="250" height="250"/> </kbd>
