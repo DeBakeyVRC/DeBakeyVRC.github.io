@@ -17,7 +17,13 @@ Zachary Friske's favorite quote:
 
 ## Sponsors:
 
-N/A
+![Cody Meng](https://media-exp1.licdn.com/dms/image/C4E03AQFXKojCkQI2KQ/profile-displayphoto-shrink_200_200/0/1544530531827?e=1672876800&v=beta&t=NM7s3FYPKDjeYhzXxW9ymKvwU0LOBeuFVz5sxG8eyhI)
+
+Code Meng's Statement:
+
+> Hello!
+> >
+> I am Mr. Cody Meng, and I teach AP Physics I, II, and Magnet Physics here at DeBakey. I graduated in 2021 from Rice University with a B.S. in Astrophysics and Computational Physics. I am currently attending Rice as a Master's student obtaining an M.A. in Teaching. During my undergraduate career, I conducted Astrophysics research with Rice and Los Alamos National Laboratory. I have two cats, enjoy cooking and food science, and love playing video games. 
 
 ---
 
@@ -170,6 +176,6 @@ Post-worlds competition photo in Dallas.
 
 [School Website](https://www.houstonisd.org/debakey "Click to visit Debakey HSHP homepage") 
 
-Contact teacher at <teacher@houstonisd.org> for school information or Jayden at <jkohhokj@gmail.com> about website or club information.
+Contact Mr. Meng at <cody.meng@houstonisd.org> for school information or Jayden at <jkohhokj@gmail.com> about website or club information.
 
 <script src="assets/script.js" type="text/javascript"></script>
